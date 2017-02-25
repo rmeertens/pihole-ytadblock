@@ -73,8 +73,8 @@
 0.0.0.0 www.youtube-nocookie.com
 
 #testing
-#0.0.0.0 clients1.google.com
-#0.0.0.0 clients4.google.com
-0.0.0.0 youtubei.youtube.com
+0.0.0.0 clients1.google.com
+0.0.0.0 clients4.google.com
+#0.0.0.0 youtubei.youtube.com
 0.0.0.0 yt3.ggpht.com
 #0.0.0.0 s2.googleusercontent.com
