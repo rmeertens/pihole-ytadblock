@@ -499,8 +499,10 @@
 
 ###testing
 0.0.0.0 clients1.google.com
-
-
+0.0.0.0 p2-htlomxbq4mg54-c2laec3ftkttgo6k-if-v6exp3-v4.metric.gstatic.com
+0.0.0.0 p2-b5d2tfxgs25q4-ieuu7phwt4kiyk45-if-v6exp3-v4.metric.gstatic.com
+0.0.0.0 p2-kfa2kspkavqiq-w66y6r62emstdvnp-if-v6exp3-v4.metric.gstatic.com
+#0.0.0.0 apis.google.com
 
 
 
