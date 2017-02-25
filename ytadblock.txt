@@ -463,9 +463,15 @@
 0.0.0.0 r9---sn-4g57knzs.googlevideo.com
 0.0.0.0 r9---sn-5hnedn7k.googlevideo.com
 0.0.0.0 r9---sn-aigllnlr.googlevideo.com
-
-
-
+0.0.0.0 r5---sn-5hnedn7l.googlevideo.com
+0.0.0.0 r3---sn-4g57knkk.googlevideo.com
+0.0.0.0 r5---sn-5hne6n7e.googlevideo.com
+0.0.0.0 r14---sn-4g57kney.googlevideo.com
+0.0.0.0 r12---sn-4g57kn6e.googlevideo.com
+0.0.0.0 r5---sn-4g5edn7z.googlevideo.com
+0.0.0.0 r8---sn-5hne6nl7.googlevideo.com
+0.0.0.0 r4---sn-4g5e6nez.googlevideo.com
+0.0.0.0 r10---sn-aigllnee.googlevideo.com
 
 
 
