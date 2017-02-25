@@ -34,4 +34,3 @@
 0.0.0.0 r9---sn-4g57kne6.googlevideo.com
 0.0.0.0 r9---sn-4g57knkd.googlevideo.com
 0.0.0.0 www.youtube-nocookie.com
-0.0.0.0 s.ytimg.com
