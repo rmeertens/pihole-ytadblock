@@ -190,6 +190,7 @@
 0.0.0.0 r3---sn-n4v7kn7e.googlevideo.com
 0.0.0.0 r3---sn-p5qlsn67.googlevideo.com
 0.0.0.0 r3---sn-p5qs7n7e.googlevideo.com
+0.0.0.0 r3---sn-q4f7snek.googlevideo.com
 0.0.0.0 r3---sn-q4fl6ne7.googlevideo.com
 0.0.0.0 r3---sn-vgqs7nls.googlevideo.com
 0.0.0.0 r3---sn-vgqsener.googlevideo.com
@@ -345,7 +346,6 @@
 0.0.0.0 www.youtube-nocookie.com
 
 ###testing
-redirector.googlevideo.com
 
 
 
