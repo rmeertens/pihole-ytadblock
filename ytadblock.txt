@@ -492,12 +492,11 @@
 
 
 ###other
-0.0.0.0 clients6.google.com
-0.0.0.0 i1.ytimg.com
-0.0.0.0 www.youtube-nocookie.com
+#0.0.0.0 clients6.google.com
+#0.0.0.0 i1.ytimg.com
+#0.0.0.0 www.youtube-nocookie.com
 
 ###testing
-0.0.0.0 i9.ytimg.com
 
 
 
