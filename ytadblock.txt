@@ -17,6 +17,7 @@
 0.0.0.0 r18---sn-4g57kn7s.googlevideo.com
 0.0.0.0 r18---sn-4g57knd7.googlevideo.com
 0.0.0.0 r19---sn-4g57kn7l.googlevideo.com
+0.0.0.0 r2---sn-4g57kn6e.googlevideo.com
 0.0.0.0 r2---sn-4g5e6n7d.googlevideo.com
 0.0.0.0 r2---sn-4g5e6n7k.googlevideo.com
 0.0.0.0 r2---sn-4g5e6ney.googlevideo.com
@@ -39,6 +40,7 @@
 0.0.0.0 r4---sn-4g5e6n7r.googlevideo.com
 0.0.0.0 r4---sn-4g5e6nes.googlevideo.com
 0.0.0.0 r4---sn-4g5edned.googlevideo.com
+0.0.0.0 r4---sn-a5meknle.googlevideo.com
 0.0.0.0 r4---sn-aiglln7s.googlevideo.com
 0.0.0.0 r4---sn-vgqs7nez.googlevideo.com
 0.0.0.0 r4.sn-vgqs7nez.googlevideo.com
@@ -46,6 +48,7 @@
 0.0.0.0 r5---sn-5hne6n7s.googlevideo.com
 0.0.0.0 r5---sn-a5meknll.googlevideo.com
 0.0.0.0 r6---sn-4g5e6nes.googlevideo.com
+0.0.0.0 r6---sn-4g5e6nle.googlevideo.com
 0.0.0.0 r6---sn-4g5e6nls.googlevideo.com
 0.0.0.0 r6---sn-4g5edne6.googlevideo.com	
 0.0.0.0 r7---sn-vgqs7ne7.googlevideo.com
@@ -60,3 +63,8 @@
 0.0.0.0 i1.ytimg.com
 0.0.0.0 i9.ytimg.com
 0.0.0.0 www.youtube-nocookie.com
+
+#testing
+0.0.0.0 clients1.google.com
+0.0.0.0 clients4.google.com
+0.0.0.0 youtubei.youtube.com
