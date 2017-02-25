@@ -498,16 +498,6 @@
 0.0.0.0 www.youtube-nocookie.com
 
 ###testing
-#0.0.0.0 clients1.google.com
-0.0.0.0 p2-htlomxbq4mg54-c2laec3ftkttgo6k-if-v6exp3-v4.metric.gstatic.com
-0.0.0.0 p2-b5d2tfxgs25q4-ieuu7phwt4kiyk45-if-v6exp3-v4.metric.gstatic.com
-0.0.0.0 p2-kfa2kspkavqiq-w66y6r62emstdvnp-if-v6exp3-v4.metric.gstatic.com
-0.0.0.0 p2-pglw2g7c2qqoi-35bd32wudqj72rqb-if-v6exp3-v4.metric.gstatic.com
-0.0.0.0 p2-ohwumf5axbuu6-3etzo4rmfvcv3tqi-if-v6exp3-v4.metric.gstatic.com
-#0.0.0.0 apis.google.com
-0.0.0.0 clients4.google.com
-0.0.0.0 youtubei.youtube.com
-0.0.0.0 redirector.googlevideo.com
-#0.0.0.0 yt3.ggpht.com
+
 
 
