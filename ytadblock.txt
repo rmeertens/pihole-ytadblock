@@ -346,7 +346,6 @@
 
 ###testing
 redirector.googlevideo.com
-manifest.googlevideo.com
 
 
 
