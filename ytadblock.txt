@@ -506,7 +506,7 @@
 0.0.0.0 p2-ohwumf5axbuu6-3etzo4rmfvcv3tqi-if-v6exp3-v4.metric.gstatic.com
 0.0.0.0 apis.google.com
 0.0.0.0 clients4.google.com
-0.0.0.0 youtubei.youtube.com
+#0.0.0.0 youtubei.youtube.com
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 yt3.ggpht.com
 
