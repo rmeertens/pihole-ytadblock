@@ -4,6 +4,7 @@
 0.0.0.0 r1---sn-4g57knsy.googlevideo.com
 0.0.0.0 r1---sn-4g57knz7.googlevideo.com
 0.0.0.0 r1---sn-4g57knzd.googlevideo.com
+0.0.0.0 r1---sn-4g5e6n7d.googlevideo.com
 0.0.0.0 r1---sn-4g5e6ne6.googlevideo.com
 0.0.0.0 r1---sn-4g5e6ney.googlevideo.com
 0.0.0.0 r1---sn-4g5e6nez.googlevideo.com
@@ -206,6 +207,7 @@
 0.0.0.0 r2---sn-n4v7sn7z.googlevideo.com
 0.0.0.0 r2---sn-o097znel.googlevideo.com
 0.0.0.0 r2---sn-o097znld.googlevideo.com
+0.0.0.0 r2---sn-p5qlsne7.googlevideo.com
 0.0.0.0 r2---sn-p5qs7n76.googlevideo.com
 0.0.0.0 r2---sn-p5qs7n7l.googlevideo.com
 0.0.0.0 r2---sn-p5qs7n7s.googlevideo.com
@@ -306,6 +308,7 @@
 0.0.0.0 r4---sn-4g5e6nes.googlevideo.com
 0.0.0.0 r4---sn-4g5e6nez.googlevideo.com
 0.0.0.0 r4---sn-4g5e6nl6.googlevideo.com
+0.0.0.0 r4---sn-4g5edne7.googlevideo.com
 0.0.0.0 r4---sn-4g5edned.googlevideo.com
 0.0.0.0 r4---sn-4g5ednee.googlevideo.com
 0.0.0.0 r4---sn-5hne6n7e.googlevideo.com
@@ -368,6 +371,7 @@
 0.0.0.0 r5---sn-4g5edney.googlevideo.com
 0.0.0.0 r5---sn-5hne6n7e.googlevideo.com
 0.0.0.0 r5---sn-5hne6n7s.googlevideo.com
+0.0.0.0 r5---sn-5hne6nlk.googlevideo.com
 0.0.0.0 r5---sn-5hnedn7l.googlevideo.com
 0.0.0.0 r5---sn-5hnednlr.googlevideo.com
 0.0.0.0 r5---sn-a5meknll.googlevideo.com
@@ -449,6 +453,7 @@
 0.0.0.0 r7---sn-4g57knky.googlevideo.com
 0.0.0.0 r7---sn-a5m7lnee.googlevideo.com
 0.0.0.0 r7---sn-aigllns7.googlevideo.com
+0.0.0.0 r7---sn-aigllnss.googlevideo.com
 0.0.0.0 r7---sn-j5caxoxu-hh0e.googlevideo.com
 0.0.0.0 r7---sn-j5caxoxu-hh0l.googlevideo.com
 0.0.0.0 r7---sn-j5caxoxu-hh0s.googlevideo.com
@@ -464,6 +469,7 @@
 0.0.0.0 r8---sn-4g57knd7.googlevideo.com
 0.0.0.0 r8---sn-4g57knlz.googlevideo.com
 0.0.0.0 r8---sn-5hne6nl7.googlevideo.com
+0.0.0.0 r8---sn-5hne6nls.googlevideo.com
 0.0.0.0 r8---sn-a5m7lne7.googlevideo.com
 0.0.0.0 r8---sn-j5caxoxu-hh0l.googlevideo.com
 0.0.0.0 r8---sn-vgqsen7k.googlevideo.com
@@ -485,14 +491,13 @@
 
 
 
-
-
 ###other
 0.0.0.0 clients6.google.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 www.youtube-nocookie.com
 
 ###testing
+0.0.0.0 i9.ytimg.com
 
 
 
