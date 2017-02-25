@@ -451,6 +451,7 @@
 0.0.0.0 r7---sn-25g7snee.googlevideo.com
 0.0.0.0 r7---sn-4g57knkr.googlevideo.com
 0.0.0.0 r7---sn-4g57knky.googlevideo.com
+0.0.0.0 r7---sn-5hnednee.googlevideo.com
 0.0.0.0 r7---sn-a5m7lnee.googlevideo.com
 0.0.0.0 r7---sn-aigllns7.googlevideo.com
 0.0.0.0 r7---sn-aigllnss.googlevideo.com
@@ -497,6 +498,7 @@
 #0.0.0.0 www.youtube-nocookie.com
 
 ###testing
+clients1.google.com
 
 
 
