@@ -22,3 +22,6 @@
 0.0.0.0 r8---sn-vgqsen7k.googlevideo.com
 0.0.0.0 r2---sn-hp57knlr.googlevideo.com
 0.0.0.0 r9---sn-4g57knkd.googlevideo.com
+0.0.0.0 r12---sn-q4f7snls.googlevideo.com
+0.0.0.0 r4---sn-4g5edned.googlevideo.com
+0.0.0.0 r6---sn-4g5e6nls.googlevideo.com
