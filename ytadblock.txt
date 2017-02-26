@@ -577,20 +577,20 @@
 
 
 ###other
-0.0.0.0 doubleclick.net
-0.0.0.0 g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googleadservices.com
-0.0.0.0 googlesyndication.com
-0.0.0.0 googletagservices.com
-0.0.0.0 i1.ytimg.com
-0.0.0.0 pagead2.googleysndication.com
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 www.googleadservices.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 www.youtube-nocookie.com
-0.0.0.0 youtube-nocookie.com
+1.0.0.127 doubleclick.net
+1.0.0.127 g.doubleclick.net
+1.0.0.127 googleads.g.doubleclick.net
+1.0.0.127 googleadservices.com
+1.0.0.127 googlesyndication.com
+1.0.0.127 googletagservices.com
+1.0.0.127 i1.ytimg.com
+1.0.0.127 pagead2.googleysndication.com
+1.0.0.127 pubads.g.doubleclick.net
+1.0.0.127 static.doubleclick.net
+1.0.0.127 www.googleadservices.com
+1.0.0.127 www.googletagservices.com
+1.0.0.127 www.youtube-nocookie.com
+1.0.0.127 youtube-nocookie.com
 
 
 ###testing
