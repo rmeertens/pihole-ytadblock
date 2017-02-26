@@ -2,3 +2,6 @@
 
 i9.ytimg.com #video preview images
 googleads.g.doubleclick.net #when blocking this, long blackscreen befor video starts
+redirector.googlevideo.com #video won´t play
+manifest.googlevideo.com #video won´t play
+s.youtube.com #it saves your history of watched videos
