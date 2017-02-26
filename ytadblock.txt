@@ -579,7 +579,7 @@
 ###other
 1.0.0.127 doubleclick.net
 1.0.0.127 g.doubleclick.net
-1.0.0.127 googleads.g.doubleclick.net
+#1.0.0.127 googleads.g.doubleclick.net
 1.0.0.127 googleadservices.com
 1.0.0.127 googlesyndication.com
 1.0.0.127 googletagservices.com
