@@ -1,3 +1,7 @@
+### Youtube Ad-Block-List for PiHole by HenningVanRäumle ###
+
+# also blocks:
+# wix.com
 
 1.0.0.127 doubleclick.net
 1.0.0.127 g.doubleclick.net
@@ -12,6 +16,5 @@
 1.0.0.127 www.googletagservices.com
 1.0.0.127 www.youtube-nocookie.com
 1.0.0.127 youtube-nocookie.com
-
-
-
+1.0.0.127 wix.com
+1.0.0.127 www.wix.com
