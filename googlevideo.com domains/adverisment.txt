@@ -2,8 +2,8 @@
 
 #notpad++ search to replace (just for me to edit)
 #\w\w:\w\w:\w\w...
-#xhr
-#image
+#xhr.
+#image.
 
 
 
