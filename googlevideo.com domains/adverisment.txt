@@ -10,7 +10,7 @@
 # ? loaded before video, when ad before it's loaded there, it's the same domain as the video
 # * same ad, same domain
 # + /videogoodput loaded in video, when ad before it's loaded (sometimes) there
-# ! looks first as ?, but isn't the same domain as the video
+# ! looks first as ? or +, but isn't the same domain as the video
 
 # don't know wich ad it was 1x
 ?	 r1---sn-4g5e6nl6.googlevideo.com
@@ -55,9 +55,18 @@
 	 r1---sn-4g5e6ne6.googlevideo.com
 ?	r15---sn-4g57knzz.googlevideo.com
 
-# one.com
+# one.com 1x
 	 r1---sn-4g5e6ney.googlevideo.com
 !	 r6---sn-4g5e6ney.googlevideo.com
+
+# hp.com 1x
+?	 r1---sn-4g57knzk.googlevideo.com
+?	 r4---sn-4g5e6n7d.googlevideo.com
+	 r9---sn-4g57knsy.googlevideo.com
+	 
+# babbel.com 1x
+	 r6---sn-4g5e6nls.googlevideo.com
+!	 r9---sn-4g57knsy.googlevideo.com
 
 
 #
