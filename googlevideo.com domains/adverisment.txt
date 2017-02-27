@@ -7,7 +7,7 @@
 # i mage (no space)
 
 # first block is a short list
-# ? maybe loaded before every video, i don't know (It looks like it is)
+# ? loaded before every video, when ad before it's loaded there, it's the same domain as the video
 # * same ad, same domain
 # + /videogoodput loaded in every video, when ad before it's loaded there
 
