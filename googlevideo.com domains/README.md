@@ -1,0 +1,1 @@
+These domains are only for checking if there are differences between advertising and normal videos.
