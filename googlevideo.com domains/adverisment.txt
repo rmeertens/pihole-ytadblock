@@ -17,37 +17,45 @@
 	r17---sn-4g57knld.googlevideo.com
 	
 # audi-city.com 2x
-*2x	 r1---sn-4g5e6nls.googlevideo.com
+*	 r1---sn-4g5e6nls.googlevideo.com #2x
 +	 r2---sn-5hne6n7l.googlevideo.com
-?	 r5---sn-4g57knls.googlevideo.com
 +	 r6---sn-4g5ednle.googlevideo.com
+?	 r5---sn-4g57knls.googlevideo.com
 ?	r16---sn-4g57kney.googlevideo.com
 
-# check24.de 7x (there are diffent ads from check24)
+# check24.de 11x (there are diffent ads from check24)
+	 r2---sn-4g5e6n7d.googlevideo.com
+	 r2---sn-5hne6n7z.googlevideo.com
+	 r3---sn-4g57knzd.googlevideo.com
+	 r4---sn-4g5ednle.googlevideo.com
+	 r6---sn-4g5edn7e.googlevideo.com
+	 r6---sn-5hne6nlr.googlevideo.com
+	 r9---sn-4g57knze.googlevideo.com
+*	 r3---sn-4g5e6nes.googlevideo.com #2x
+*	 r6---sn-4g5e6n7r.googlevideo.com #2x
++	 r4---sn-hp57kn7z.googlevideo.com
++	 r5---sn-a5meknek.googlevideo.com
++	 r6---sn-p5qs7n7s.googlevideo.com
++	 r8---sn-4g57knls.googlevideo.com
++	 r9---sn-aigllns6.googlevideo.com
++	r11---sn-4g57knkr.googlevideo.com
++	r11---sn-a5m7znes.googlevideo.com
++	r19---sn-5hnedne6.googlevideo.com
++	r19---sn-o097znez.googlevideo.com
+?	 r1---sn-4g57knrs.googlevideo.com
 ?	 r1---sn-4g5edne6.googlevideo.com
 ?	 r2---sn-4g5e6n7r.googlevideo.com
 ?	 r2---sn-4g5edn7e.googlevideo.com
-	 r2---sn-4g5e6n7d.googlevideo.com
-*2x	 r3---sn-4g5e6nes.googlevideo.com
-	 r3---sn-4g57knzd.googlevideo.com
-?	 r3---sn-4g5e6nls.googlevideo.com
 ?	 r3---sn-4g57kner.googlevideo.com
-	 r4---sn-4g5ednle.googlevideo.com
+?	 r3---sn-4g5e6nls.googlevideo.com
 ?	 r4---sn-4g5e6nes.googlevideo.com
+?	 r5---sn-4g57knzl.googlevideo.com
 ?	 r5---sn-4g5e6ney.googlevideo.com
-	 r6---sn-4g5e6n7r.googlevideo.com
-+	 r6---sn-p5qs7n7s.googlevideo.com
-+	 r8---sn-4g57knls.googlevideo.com
-	 r9---sn-4g57knze.googlevideo.com
-+	 r9---sn-aigllns6.googlevideo.com
-+	r11---sn-4g57knkr.googlevideo.com
-+	r19---sn-5hnedne6.googlevideo.com
-+	r19---sn-o097znez.googlevideo.com
 
 # zattoo.com 1x
-?	 r2---sn-4g5edn7e.googlevideo.com
 	 r2---sn-4g57knek.googlevideo.com
 +	 r9---sn-ab5l6ney.googlevideo.com
+?	 r2---sn-4g5edn7e.googlevideo.com
 
 # tohoku-japan.jp 1x
 	 r5---sn-4g5edn7l.googlevideo.com
@@ -62,23 +70,30 @@
 	 r1---sn-4g5e6ney.googlevideo.com
 !	 r6---sn-4g5e6ney.googlevideo.com
 
-# hp.com 3x
-?	 r1---sn-4g57knzk.googlevideo.com
-?	 r1---sn-4g57kn76.googlevideo.com
-?	 r1---sn-4g5e6ne6.googlevideo.com
+# hp.com 4x
+	 r2---sn-4g5e6n7k.googlevideo.com
+	r20---sn-5hne6n76.googlevideo.com
+!	 r2---sn-4g5e6n7k.googlevideo.com
+!	 r3---sn-4g5e6n7k.googlevideo.com
+*	 r9---sn-4g57knsy.googlevideo.com #2x
 +	 r1---sn-p5qlsnsd.googlevideo.com
-*	 r2---sn-4g5e6n7k.googlevideo.com
+?	 r1---sn-4g57kn76.googlevideo.com
+?	 r1---sn-4g57knzk.googlevideo.com
+?	 r1---sn-4g5e6ne6.googlevideo.com
 ?	 r4---sn-4g5e6n7d.googlevideo.com
-*2x	 r9---sn-4g57knsy.googlevideo.com
 	 
 # babbel.com 1x
 	 r6---sn-4g5e6nls.googlevideo.com
 !	 r9---sn-4g57knsy.googlevideo.com
 
 # solidcam.de 1x
-+	 r4---sn-p5qs7n7e.googlevideo.com
 	 r7---sn-4g57kndd.googlevideo.com
-?	 r13---sn-4g57kn7s.googlevideo.com
++	 r4---sn-p5qs7n7e.googlevideo.com
+?	r13---sn-4g57kn7s.googlevideo.com
+
+# wix.com 1x
+	 r4---sn-5hnednlk.googlevideo.com
+?	 r1---sn-4g57knrl.googlevideo.com
 
 
 #
