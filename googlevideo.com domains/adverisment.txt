@@ -23,20 +23,23 @@
 +	 r6---sn-4g5ednle.googlevideo.com
 ?	r16---sn-4g57kney.googlevideo.com
 
-# check24.de 6x
+# check24.de 7x (there are diffent ads from check24)
 ?	 r1---sn-4g5edne6.googlevideo.com
 ?	 r2---sn-4g5e6n7r.googlevideo.com
 ?	 r2---sn-4g5edn7e.googlevideo.com
+	 r2---sn-4g5e6n7d.googlevideo.com
 *2x	 r3---sn-4g5e6nes.googlevideo.com
 	 r3---sn-4g57knzd.googlevideo.com
 ?	 r3---sn-4g5e6nls.googlevideo.com
 ?	 r3---sn-4g57kner.googlevideo.com
 	 r4---sn-4g5ednle.googlevideo.com
 ?	 r4---sn-4g5e6nes.googlevideo.com
+?	 r5---sn-4g5e6ney.googlevideo.com
 	 r6---sn-4g5e6n7r.googlevideo.com
 +	 r6---sn-p5qs7n7s.googlevideo.com
 +	 r8---sn-4g57knls.googlevideo.com
 	 r9---sn-4g57knze.googlevideo.com
++	 r9---sn-aigllns6.googlevideo.com
 +	r11---sn-4g57knkr.googlevideo.com
 +	r19---sn-5hnedne6.googlevideo.com
 +	r19---sn-o097znez.googlevideo.com
@@ -59,9 +62,12 @@
 	 r1---sn-4g5e6ney.googlevideo.com
 !	 r6---sn-4g5e6ney.googlevideo.com
 
-# hp.com 2x
+# hp.com 3x
 ?	 r1---sn-4g57knzk.googlevideo.com
 ?	 r1---sn-4g57kn76.googlevideo.com
+?	 r1---sn-4g5e6ne6.googlevideo.com
++	 r1---sn-p5qlsnsd.googlevideo.com
+*	 r2---sn-4g5e6n7k.googlevideo.com
 ?	 r4---sn-4g5e6n7d.googlevideo.com
 *2x	 r9---sn-4g57knsy.googlevideo.com
 	 
