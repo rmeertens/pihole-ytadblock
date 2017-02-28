@@ -11,6 +11,8 @@
 # + /videogoodput loaded in video, when ad before it's loaded (sometimes) there
 
 	 r1---sn-4g5e6nl6.googlevideo.com
+	 r1---sn-4g5ednle.googlevideo.com
+	 r1---sn-4g57kn76.googlevideo.com
 	 r1---sn-4g57kn6y.googlevideo.com
 	 r1---sn-4g57knzk.googlevideo.com
 +	 r1---sn-aigllnds.googlevideo.com
@@ -25,6 +27,7 @@
 ?	 r3---sn-4g57knls.googlevideo.com
 	 r3---sn-4g57kner.googlevideo.com
 +	 r3---sn-4g5e6ney.googlevideo.com
++	 r3---sn-4g5e6nle.googlevideo.com
 ?	 r3---sn-4g5e6n7d.googlevideo.com
 +	 r3---sn-h0j7sn7s.googlevideo.com
 	 r4---sn-4g5e6nes.googlevideo.com
@@ -41,6 +44,7 @@
 +	r12---sn-aiglln7e.googlevideo.com
 ?	r13---sn-4g57knek.googlevideo.com
 +	r13---sn-ab5l6nes.googlevideo.com
+	r13---sn-4g57kn7s.googlevideo.com
 +	r15---sn-5hne6nee.googlevideo.com
 	r15---sn-4g57knzz.googlevideo.com
 	r16---sn-4g57kney.googlevideo.com
