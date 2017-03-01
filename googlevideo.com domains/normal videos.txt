@@ -7,7 +7,6 @@
 # i mage. (no space)
 
 # first block is a short list
-# ? loaded before video, when ad before it's loaded there, it's the same domain as the video
 # + /videogoodput loaded in video, when ad before it's loaded (sometimes) there
 
 	 r1---sn-4g57kn6y.googlevideo.com
@@ -20,9 +19,12 @@
 	 r1---sn-4g5e6nl6.googlevideo.com
 	 r1---sn-4g5edne6.googlevideo.com
 	 r1---sn-4g5ednle.googlevideo.com
+	 r2---sn-4g5e6n76.googlevideo.com
 	 r2---sn-4g5e6n7r.googlevideo.com
 	 r2---sn-4g5edn7e.googlevideo.com
 	 r3---sn-4g57kner.googlevideo.com
+	 r3---sn-4g57knls.googlevideo.com
+	 r3---sn-4g5e6n7d.googlevideo.com
 	 r3---sn-4g5e6nez.googlevideo.com
 	 r3---sn-4g5e6nls.googlevideo.com
 	 r4---sn-4g5e6nes.googlevideo.com
@@ -30,15 +32,24 @@
 	 r5---sn-4g57knzl.googlevideo.com
 	 r5---sn-4g5e6ne6.googlevideo.com
 	 r5---sn-4g5e6ney.googlevideo.com
+	 r5---sn-4g5e6nl6.googlevideo.com
+	 r6---sn-4g5e6n7r.googlevideo.com
+	 r6---sn-4g5e6nl6.googlevideo.com
 	 r6---sn-4g5e6nl7.googlevideo.com
 	 r6---sn-4g5edne6.googlevideo.com
+	 r9---sn-4g57kn7s.googlevideo.com
+	 r9---sn-4g57knes.googlevideo.com
 	r10---sn-4g57knke.googlevideo.com
 	r13---sn-4g57kn7s.googlevideo.com
+	r13---sn-4g57knek.googlevideo.com
 	r15---sn-4g57knzz.googlevideo.com
 	r16---sn-4g57kney.googlevideo.com
 	r16---sn-4g57knl7.googlevideo.com
+	r16---sn-4g57knrz.googlevideo.com
+	r17---sn-4g57knz7.googlevideo.com
 	r18---sn-4g57kn7z.googlevideo.com
 	r19---sn-4g57kner.googlevideo.com
+	r19---sn-4g57knke.googlevideo.com
 +	 r1---sn-4g5e6ney.googlevideo.com
 +	 r1---sn-aigllnds.googlevideo.com
 +	 r1---sn-n4v7sn7s.googlevideo.com
@@ -56,16 +67,9 @@
 +	 r7---sn-p5qlsnzr.googlevideo.com
 +	r12---sn-aiglln7e.googlevideo.com
 +	r13---sn-ab5l6nes.googlevideo.com
++	r13---sn-hp57knzs.googlevideo.com
 +	r15---sn-5hne6nee.googlevideo.com
 +	r17---sn-4g57kn6k.googlevideo.com
 +	r17---sn-q4f7snel.googlevideo.com
 +	r18---sn-h0j7sn7z.googlevideo.com
 +	r19---sn-aiglln7k.googlevideo.com
-?	 r2---sn-4g5e6n76.googlevideo.com
-?	 r3---sn-4g57knls.googlevideo.com
-?	 r3---sn-4g5e6n7d.googlevideo.com
-?	 r6---sn-4g5e6n7r.googlevideo.com
-?	 r6---sn-4g5e6nl6.googlevideo.com
-?	r13---sn-4g57knek.googlevideo.com
-?	r16---sn-4g57knrz.googlevideo.com
-?	r17---sn-4g57knz7.googlevideo.com
