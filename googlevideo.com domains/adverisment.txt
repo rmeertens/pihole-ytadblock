@@ -1,5 +1,4 @@
 # advertisment
-# Ech block between two blank spaces is an advertisment.
 
 # notpad++ search to replace (just for me to edit)
 # \w\w:\w\w:\w\w...
@@ -87,4 +86,15 @@
 
 # bmw.de 1x
 	 r4---sn-4g57kney.googlevideo.com
+	 
+# reuter.de 1x
+	 r8---sn-4g57knkr.googlevideo.com
+	 
+# hse-mehode.com 1x
++	 r5---sn-q4f7snes.googlevideo.com
+	r18---sn-4g57knkr.googlevideo.com
 
+
+# airnb.de 1x
+	r13---sn-4g57knzl.googlevideo.com
++	r15---sn-4g57kn6e.googlevideo.com

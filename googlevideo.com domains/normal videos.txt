@@ -1,5 +1,4 @@
 # videos
-# Each block between two blank spaces is a video. (removed, too much)
 
 # notpad++ search to replace (just for me to edit)
 # \w\w:\w\w:\w\w...
@@ -28,11 +27,13 @@
 	 r3---sn-4g5e6nez.googlevideo.com
 	 r3---sn-4g5e6nls.googlevideo.com
 	 r4---sn-4g5e6nes.googlevideo.com
+	 r4---sn-4g5edne6.googlevideo.com
 	 r5---sn-4g57knls.googlevideo.com
 	 r5---sn-4g57knzl.googlevideo.com
 	 r5---sn-4g5e6ne6.googlevideo.com
 	 r5---sn-4g5e6ney.googlevideo.com
 	 r5---sn-4g5e6nl6.googlevideo.com
+	 r5---sn-4g5e6nle.googlevideo.com
 	 r6---sn-4g5e6n7r.googlevideo.com
 	 r6---sn-4g5e6nl6.googlevideo.com
 	 r6---sn-4g5e6nl7.googlevideo.com
@@ -42,6 +43,7 @@
 	 r9---sn-4g57kn7s.googlevideo.com
 	 r9---sn-4g57knes.googlevideo.com
 	r10---sn-4g57knke.googlevideo.com
+	r11---sn-4g57knzz.googlevideo.com
 	r13---sn-4g57kn7s.googlevideo.com
 	r13---sn-4g57knek.googlevideo.com
 	r15---sn-4g57knd7.googlevideo.com
