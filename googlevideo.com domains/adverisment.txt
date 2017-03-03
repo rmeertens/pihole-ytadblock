@@ -9,8 +9,8 @@
 # first block is a short list
 # ? loaded before video, when ad before it's loaded there, it's the same domain as the video
 # * same ad, same domain
-# + /videogoodput loaded in video, when ad before it's loaded (sometimes) there
-# ! looks first as ? or +, but isn't the same domain as the video
+# + /videogoodput
+# ! looks first as ?, but isn't the same domain as the video
 
 # don't know wich ad it was 1x
 	r17---sn-4g57knld.googlevideo.com
@@ -20,19 +20,22 @@
 +	 r2---sn-5hne6n7l.googlevideo.com
 +	 r6---sn-4g5ednle.googlevideo.com
 
-# check24.de 12x (there are diffent ads from check24)
+# check24.de 14x (there are diffent ads from check24)
 	 r2---sn-4g5e6n7d.googlevideo.com
-*	 r2---sn-5hne6n7z.googlevideo.com #2x
 	 r3---sn-4g57knzd.googlevideo.com
+	 r3---sn-5hnednlk.googlevideo.com
 	 r4---sn-4g5ednle.googlevideo.com
 	 r6---sn-4g5edn7e.googlevideo.com
 	 r6---sn-5hne6nlr.googlevideo.com
 	 r9---sn-4g57knze.googlevideo.com
 	r13---sn-4g57knls.googlevideo.com
+	r17---sn-4g57kn7s.googlevideo.com
+*	 r2---sn-5hne6n7z.googlevideo.com #2x
 *	 r3---sn-4g5e6nes.googlevideo.com #2x
 *	 r6---sn-4g5e6n7r.googlevideo.com #2x
 +	 r4---sn-hp57kn7z.googlevideo.com
 +	 r5---sn-a5meknek.googlevideo.com
++	 r5---sn-ab5l6nsk.googlevideo.com
 +	 r6---sn-p5qs7n7s.googlevideo.com
 +	 r8---sn-4g57knls.googlevideo.com
 +	 r9---sn-aigllns6.googlevideo.com
@@ -64,7 +67,8 @@
 *	 r9---sn-4g57knsy.googlevideo.com #2x
 +	 r1---sn-p5qlsnsd.googlevideo.com
 	 
-# babbel.com 1x
+# babbel.com 2x
+	 r6---sn-4g5ednle.googlevideo.com
 	 r6---sn-4g5e6nls.googlevideo.com
 !	 r9---sn-4g57knsy.googlevideo.com
 
@@ -75,7 +79,12 @@
 # wix.com 1x
 	 r4---sn-5hnednlk.googlevideo.com
 
-# justwatch.com 1x
+# justwatch.com 2x
+	 r5---sn-4g5ednle.googlevideo.com
 	 r6---sn-4g5edn7y.googlevideo.com
 +	 r4---sn-aigllnek.googlevideo.com
++	 r5---sn-a5mlrn7r.googlevideo.com
+
+# bmw.de 1x
+	 r4---sn-4g57kney.googlevideo.com
 
