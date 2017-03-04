@@ -36,6 +36,7 @@
 0.0.0.0 r20---sn-5hne6n76.googlevideo.com
 
 
+1.0.0.127 ad.doubleclick.net
 1.0.0.127 doubleclick.net
 1.0.0.127 g.doubleclick.net
 1.0.0.127 googleadservices.com
@@ -45,12 +46,12 @@
 1.0.0.127 pagead2.googleysndication.com
 1.0.0.127 pubads.g.doubleclick.net
 1.0.0.127 static.doubleclick.net
+1.0.0.127 wix.com
 1.0.0.127 www.googleadservices.com
 1.0.0.127 www.googletagservices.com
+1.0.0.127 www.wix.com
 1.0.0.127 www.youtube-nocookie.com
 1.0.0.127 youtube-nocookie.com
-1.0.0.127 wix.com
-1.0.0.127 www.wix.com
 
 
 #List from MajkilIT https://github.com/MajkiIT
