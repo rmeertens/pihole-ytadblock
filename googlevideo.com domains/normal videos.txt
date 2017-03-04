@@ -28,6 +28,7 @@
 	 r3---sn-4g5e6nls.googlevideo.com
 	 r4---sn-4g5e6nes.googlevideo.com
 	 r4---sn-4g5edne6.googlevideo.com
+	 r5---sn-4g57kn67.googlevideo.com
 	 r5---sn-4g57knls.googlevideo.com
 	 r5---sn-4g57knzl.googlevideo.com
 	 r5---sn-4g5e6ne6.googlevideo.com
