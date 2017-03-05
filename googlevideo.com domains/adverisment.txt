@@ -1,33 +1,28 @@
 # advertisment
 
-# notpad++ search to replace (just for me to edit)
-# \w\w:\w\w:\w\w...
-# x hr (no space)
-# i mage (no space)
-
-# * same ad, same domain
-
 # don't know wich ad it was 1x
 	r17---sn-4g57knld.googlevideo.com
 	
 # audi-city.com 2x
-*	 r1---sn-4g5e6nls.googlevideo.com #2x
+	 r1---sn-4g5e6nls.googlevideo.com
 
-# check24.de 16x (there are diffent ads from check24 and many domains)
+# check24.de 18x (there are different ads from check24 and many domains)
 	 r1---sn-4g5ednls.googlevideo.com
 	 r2---sn-4g5e6n7d.googlevideo.com
+	 r2---sn-5hne6n7z.googlevideo.com
 	 r3---sn-4g57knzd.googlevideo.com
+	 r3---sn-4g5e6nes.googlevideo.com
 	 r3---sn-5hnednlk.googlevideo.com
 	 r4---sn-4g5ednle.googlevideo.com
+	 r6---sn-4g5e6n7r.googlevideo.com
 	 r6---sn-4g5edn7e.googlevideo.com
+	 r6---sn-4g5ednee.googlevideo.com
 	 r6---sn-5hne6nlr.googlevideo.com
+	 r8---sn-4g57knzz.googlevideo.com
 	 r9---sn-4g57knze.googlevideo.com
 	r13---sn-4g57knls.googlevideo.com
 	r17---sn-4g57kn7s.googlevideo.com
 	r18---sn-5hne6nek.googlevideo.com
-*	 r2---sn-5hne6n7z.googlevideo.com #2x
-*	 r3---sn-4g5e6nes.googlevideo.com #2x
-*	 r6---sn-4g5e6n7r.googlevideo.com #2x
 
 # zattoo.com 1x
 	 r2---sn-4g57knek.googlevideo.com
@@ -44,11 +39,12 @@
 # hp.com 4x
 	 r2---sn-4g5e6n7k.googlevideo.com
 	r20---sn-5hne6n76.googlevideo.com
-*	 r9---sn-4g57knsy.googlevideo.com #2x
+	 r9---sn-4g57knsy.googlevideo.com
 	 
-# babbel.com 2x
+# babbel.com 3x
 	 r6---sn-4g5ednle.googlevideo.com
 	 r6---sn-4g5e6nls.googlevideo.com
+	r15---sn-5hne6nl6.googlevideo.com
 
 # solidcam.de 1x
 	 r7---sn-4g57kndd.googlevideo.com
@@ -76,7 +72,8 @@
 # nissan.de 1x
 	 r5---sn-4g57knl6.googlevideo.com
 	 
-# aircon 2x
+# aircon 3x
+	 r1---sn-5hne6nlr.googlevideo.com
 	r19---sn-4g57knkz.googlevideo.com
 
 # youtube.com (Aktion Mensch) 1x
