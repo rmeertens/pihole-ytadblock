@@ -90,3 +90,9 @@
 	 
 # shop-apotheke.com 1x
 	 r1---sn-4g5ednll.googlevideo.com
+	 
+# samsung.com 1x
+	 r9---sn-5hne6n76.googlevideo.com
+	 
+# brillen.de 1x
+	r13---sn-4g57knlz.googlevideo.com
