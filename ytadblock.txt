@@ -1,11 +1,13 @@
 ### Youtube Ad-Block-List for PiHole by HenningVanRäumle ###
+ 
 # also blocks:
 # wix.com
-
+ 
 #main
 0.0.0.0 r1---sn-4g57kndd.googlevideo.com
 0.0.0.0 r1---sn-4g5e6ne6.googlevideo.com
 0.0.0.0 r1---sn-4g5e6ney.googlevideo.com
+0.0.0.0 r1---sn-4g5e6nls.googlevideo.com
 0.0.0.0 r1---sn-4g5ednll.googlevideo.com
 0.0.0.0 r1---sn-4g5ednls.googlevideo.com
 0.0.0.0 r1---sn-5hne6nlr.googlevideo.com
@@ -37,7 +39,9 @@
 0.0.0.0 r8---sn-4g57knzz.googlevideo.com
 0.0.0.0 r9---sn-4g57knsy.googlevideo.com
 0.0.0.0 r9---sn-4g57knze.googlevideo.com
+0.0.0.0 r9---sn-5hne6n76.googlevideo.com
 0.0.0.0 r13---sn-4g57knls.googlevideo.com
+0.0.0.0 r13---sn-4g57knlz.googlevideo.com
 0.0.0.0 r13---sn-4g57knzl.googlevideo.com
 0.0.0.0 r15---sn-5hne6nl6.googlevideo.com
 0.0.0.0 r17---sn-4g57kn7s.googlevideo.com
@@ -46,8 +50,7 @@
 0.0.0.0 r18---sn-5hne6nek.googlevideo.com
 0.0.0.0 r19---sn-4g57knkz.googlevideo.com
 0.0.0.0 r20---sn-5hne6n76.googlevideo.com
-
-
+ 
 #other
 1.0.0.127 ad.doubleclick.net
 1.0.0.127 doubleclick.net
@@ -65,7 +68,7 @@
 1.0.0.127 www.wix.com
 1.0.0.127 www.youtube-nocookie.com
 1.0.0.127 youtube-nocookie.com
-
+ 
 #List from MajkilIT https://github.com/MajkiIT
 0.0.0.0 r1.sn-1gi7zn7s.googlevideo.com
 0.0.0.0 r1.sn-4g5e6n7r.googlevideo.com
