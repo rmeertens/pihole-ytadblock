@@ -6,7 +6,7 @@
 # audi-city.com 2x
 	 r1---sn-4g5e6nls.googlevideo.com
 
-# check24.de 18x (there are different ads from check24 and many domains)
+# check24.de 19x (there are different ads from check24 and many domains)
 	 r1---sn-4g5ednls.googlevideo.com
 	 r2---sn-4g5e6n7d.googlevideo.com
 	 r2---sn-5hne6n7z.googlevideo.com
@@ -21,6 +21,7 @@
 	 r8---sn-4g57knzz.googlevideo.com
 	 r9---sn-4g57knze.googlevideo.com
 	r13---sn-4g57knls.googlevideo.com
+	r15---sn-4g57kn67.googlevideo.com
 	r17---sn-4g57kn7s.googlevideo.com
 	r18---sn-5hne6nek.googlevideo.com
 
@@ -62,9 +63,10 @@
 # reuter.de 1x
 	 r8---sn-4g57knkr.googlevideo.com
 	 
-# hse-mehode.com 1x
+# hse-mehode.com 3x
+	r13---sn-5hnedn7k.googlevideo.com
+	r15---sn-4g57knr7.googlevideo.com
 	r18---sn-4g57knkr.googlevideo.com
-
 
 # airnb.de 1x
 	r13---sn-4g57knzl.googlevideo.com
