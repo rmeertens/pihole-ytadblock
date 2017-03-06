@@ -43,6 +43,9 @@
 0.0.0.0 r13---sn-4g57knls.googlevideo.com
 0.0.0.0 r13---sn-4g57knlz.googlevideo.com
 0.0.0.0 r13---sn-4g57knzl.googlevideo.com
+0.0.0.0 r13---sn-5hnedn7k.googlevideo.com
+0.0.0.0 r15---sn-4g57kn67.googlevideo.com
+0.0.0.0 r15---sn-4g57knr7.googlevideo.com
 0.0.0.0 r15---sn-5hne6nl6.googlevideo.com
 0.0.0.0 r17---sn-4g57kn7s.googlevideo.com
 0.0.0.0 r17---sn-4g57knld.googlevideo.com
