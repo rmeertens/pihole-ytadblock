@@ -6,7 +6,7 @@
 # audi-city.com 2x
 	 r1---sn-4g5e6nls.googlevideo.com
 
-# check24.de 19x (there are different ads from check24 and many domains)
+# check24.de 20x (there are different ads from check24 and many domains)
 	 r1---sn-4g5ednls.googlevideo.com
 	 r2---sn-4g5e6n7d.googlevideo.com
 	 r2---sn-5hne6n7z.googlevideo.com
@@ -24,6 +24,7 @@
 	r15---sn-4g57kn67.googlevideo.com
 	r17---sn-4g57kn7s.googlevideo.com
 	r18---sn-5hne6nek.googlevideo.com
+	r20---sn-4g57knde.googlevideo.com
 
 # zattoo.com 1x
 	 r2---sn-4g57knek.googlevideo.com
@@ -71,15 +72,17 @@
 # airnb.de 1x
 	r13---sn-4g57knzl.googlevideo.com
 
-# nissan.de 1x
+# nissan.de 2x
+	 r3---sn-4g5edne6.googlevideo.com
 	 r5---sn-4g57knl6.googlevideo.com
 	 
 # aircon 3x
 	 r1---sn-5hne6nlr.googlevideo.com
 	r19---sn-4g57knkz.googlevideo.com
 
-# youtube.com (Aktion Mensch) 1x
+# youtube.com 2x
 	 r2---sn-4g57knzk.googlevideo.com
+	 r5---sn-4g5e6nl6.googlevideo.com
 
 # wellandslim.de 1x
 	 r4---sn-4g5e6nl7.googlevideo.com
