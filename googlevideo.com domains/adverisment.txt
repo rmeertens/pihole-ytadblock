@@ -55,7 +55,8 @@
 # wix.com 1x
 	 r4---sn-5hnednlk.googlevideo.com
 
-# justwatch.com 3x
+# justwatch.com 4x
+	 r3---sn-4g5e6nez.googlevideo.com
 	 r5---sn-4g5ednle.googlevideo.com
 	 r4---sn-4g5e6n76.googlevideo.com
 	 r6---sn-4g5edn7y.googlevideo.com
@@ -63,9 +64,10 @@
 # bmw.de 1x
 	 r4---sn-4g57kney.googlevideo.com
 	 
-# reuter.de 2x
+# reuter.de 3x
 	 r4---sn-4g5edn7z.googlevideo.com
 	 r8---sn-4g57knkr.googlevideo.com
+	r11---sn-5hne6nel.googlevideo.com
 	 
 # hse-mehode.com 3x
 	r13---sn-5hnedn7k.googlevideo.com
@@ -83,9 +85,10 @@
 	 r1---sn-5hne6nlr.googlevideo.com
 	r19---sn-4g57knkz.googlevideo.com
 
-# youtube.com 3x
+# youtube.com 4x
 	 r1---sn-5hne6ne6.googlevideo.com
 	 r2---sn-4g57knzk.googlevideo.com
+	 r4---sn-4g57kn7d.googlevideo.com
 	 r5---sn-4g5e6nl6.googlevideo.com
 
 # wellandslim.de 1x

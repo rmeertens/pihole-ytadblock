@@ -19,6 +19,7 @@
 	 r1---sn-4g5ednle.googlevideo.com
 	 r1---sn-5hne6n7l.googlevideo.com
 	 r1---sn-5hne6ne6.googlevideo.com
+	 r2---sn-4g57kn6l.googlevideo.com
 	 r2---sn-4g57knkr.googlevideo.com
 	 r2---sn-4g5e6n76.googlevideo.com
 	 r2---sn-4g5e6n7r.googlevideo.com
