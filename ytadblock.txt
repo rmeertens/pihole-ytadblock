@@ -4,6 +4,7 @@
 # wix.com
  
 #main
+0.0.0.0 r1---sn-4g57knek.googlevideo.com
 0.0.0.0 r1---sn-4g57kndd.googlevideo.com
 0.0.0.0 r1---sn-4g5e6ne6.googlevideo.com
 0.0.0.0 r1---sn-4g5e6ney.googlevideo.com
@@ -22,10 +23,12 @@
 0.0.0.0 r3---sn-4g5e6nez.googlevideo.com
 0.0.0.0 r3---sn-4g5edne6.googlevideo.com
 0.0.0.0 r3---sn-5hnednlk.googlevideo.com
+0.0.0.0 r3---sn-4g5e6nls.googlevideo.com
 0.0.0.0 r4---sn-4g57kn7d.googlevideo.com
 0.0.0.0 r4---sn-4g57kney.googlevideo.com
 0.0.0.0 r4---sn-4g5e6n76.googlevideo.com
 0.0.0.0 r4---sn-4g5e6nl7.googlevideo.com
+0.0.0.0 r4---sn-4g5edn7y.googlevideo.com
 0.0.0.0 r4---sn-4g5edn7z.googlevideo.com
 0.0.0.0 r4---sn-4g5ednle.googlevideo.com
 0.0.0.0 r4---sn-5hnednlk.googlevideo.com
