@@ -74,7 +74,9 @@
 	r15---sn-4g57knr7.googlevideo.com
 	r18---sn-4g57knkr.googlevideo.com
 
-# airnb.de 1x
+# airbnb.de 3x
+	 r3---sn-4g5e6nls.googlevideo.com
+	 r4---sn-4g5edn7y.googlevideo.com
 	r13---sn-4g57knzl.googlevideo.com
 
 # nissan.de 2x
@@ -111,3 +113,6 @@
 	
 # vodafone.de 1x
 	r10---sn-4g57knkl.googlevideo.com
+	
+# trivago.de 1x
+	 r1---sn-4g57knek.googlevideo.com
