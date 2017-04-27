@@ -39,7 +39,9 @@ advertisment
 0.0.0.0 r5---sn-4g5e6nl6.googlevideo.com
 0.0.0.0 r5---sn-4g5edn7l.googlevideo.com
 0.0.0.0 r5---sn-4g5ednle.googlevideo.com
+0.0.0.0 r6---sn-4g5e6n7k.googlevideo.com
 0.0.0.0 r6---sn-4g5e6nls.googlevideo.com
+0.0.0.0 r6---sn-4g5edn7z.googlevideo.com
 0.0.0.0 r6---sn-4g5ednee.googlevideo.com
 0.0.0.0 r6---sn-4g5edn7e.googlevideo.com
 0.0.0.0 r6---sn-4g5edn7y.googlevideo.com
@@ -54,6 +56,7 @@ advertisment
 0.0.0.0 r9---sn-4g57knze.googlevideo.com
 0.0.0.0 r9---sn-5hne6n76.googlevideo.com
 0.0.0.0 r10---sn-4g57knkl.googlevideo.com
+0.0.0.0 r11---sn-4g57knzz.googlevideo.com
 0.0.0.0 r11---sn-5hne6nel.googlevideo.com
 0.0.0.0 r13---sn-4g57knls.googlevideo.com
 0.0.0.0 r13---sn-4g57knlz.googlevideo.com
